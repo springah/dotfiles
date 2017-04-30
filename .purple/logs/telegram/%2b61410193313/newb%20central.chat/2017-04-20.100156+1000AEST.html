@@ -1,0 +1,78 @@
+<html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>Conversation with newb central at Thu 20 Apr 2017 10:01:56 AEST on +61410193313 (telegram)</title></head><body><h3>Conversation with newb central at Thu 20 Apr 2017 10:01:56 AEST on +61410193313 (telegram)</h3>
+<font size="2">(10:01:56)</font><b> List of 4 users:
+[ Eddie Y ][ Monica Lolham ][ rlolham ][ Shant ]</b><br/>
+<font color="#A82F2F"><font size="2">(10:01:55)</font> <b>Eddie Y:</b></font> tried out matlab for linux yesterday... ❤️<br/>
+<font color="#A82F2F"><font size="2">(10:02:33)</font> <b>Eddie Y:</b></font> so easy to plot graphs in it and it has a *TON* of functions for all sorts of enginerering and scientific stuff.<br/>
+<font color="#A82F2F"><font size="2">(10:03:36)</font> <b>Eddie Y:</b></font> it's this easy:
+x = 0:100:1<br/>
+<font color="#A82F2F"><font size="2">(10:03:39)</font> <b>Eddie Y:</b></font> plot(x)<br/>
+<font color="#A82F2F"><font size="2">(10:04:01)</font> <b>Eddie Y:</b></font> so it goes from 0 to 100, increasing by 1 each step of the loop, then plots it on a bode plot.<br/>
+<font color="#A82F2F"><font size="2">(10:04:59)</font> <b>Eddie Y:</b></font> I don't know why it takes 4gb of space to do that, malware for sure, but I'm running it in a vm with no net access to it so it'll do for now I guess.<br/>
+<font color="#16569E"><font size="2">(10:23:28)</font> <b>Shant:</b></font> ooooo<br/>
+<font color="#16569E"><font size="2">(10:23:37)</font> <b>Shant:</b></font> kinda junk im usin these days<br/>
+<font color="#16569E"><font size="2">(10:23:44)</font> <b>Shant:</b></font> qlikview/sas jmp<br/>
+<font color="#A82F2F"><font size="2">(10:24:20)</font> <b>Eddie Y:</b></font> I just found another one called GNU Octave. going to try it out right now.<br/>
+<font color="#A82F2F"><font size="2">(10:24:33)</font> <b>Eddie Y:</b></font> qlikview looks pretty good<br/>
+<font color="#A82F2F"><font size="2">(10:29:58)</font> <b>Eddie Y:</b></font> there's another one called sage, made with python and its language mimics python. pretty neat. anyway, just installed octave ! going to try it out.<br/>
+<font color="#A82F2F"><font size="2">(10:35:49)</font> <b>Eddie Y:</b></font> <br/><img src='ff48a71d06095f7b6fcfa2b0cca1b33ebbba889e.jpg' alt='' /><br/>gnu octave is fucking elite<br/>
+<font color="#A82F2F"><font size="2">(10:36:21)</font> <b>Eddie Y:</b></font> 226mb and it's meant to be a matlab clone. samge language, same plugins etc.. I think I'm sold on it.<br/>
+<font color="#A82F2F"><font size="2">(10:37:03)</font> <b>Eddie Y:</b></font> can't believe I've never heard of this octave before. so awesome :D<br/>
+<font color="#16569E"><font size="2">(10:41:08)</font> <b>Shant:</b></font> oooo nice nice<br/>
+<font color="#16569E"><font size="2">(10:41:41)</font> <b>Shant:</b></font> http://insights.dice.com/2012/05/16/r-octave-python-suits-your-analysis-needs/<br/>
+<font color="#16569E"><font size="2">(10:42:21)</font> <b>Shant:</b></font> https://www.quora.com/Should-I-switch-to-R-from-Octave<br/>
+<font color="#16569E"><font size="2">(10:42:26)</font> <b>Shant:</b></font> still python ftw, heh<br/>
+<font color="#16569E"><font size="2">(10:42:32)</font> <b>Shant:</b></font> should get back into it :/<br/>
+<font color="#16569E"><font size="2">(10:42:51)</font> <b>Shant:</b></font> https://www.linkedin.com/pulse/r-vs-python-matlab-octave-julia-who-winner-siva-prasad-katru<br/>
+<font color="#16569E"><font size="2">(10:43:50)</font> <b>Shant:</b></font> oh oh<br/>
+<font color="#16569E"><font size="2">(10:43:55)</font> <b>Shant:</b></font> was gonna send yesterday but forgot<br/>
+<font color="#16569E"><font size="2">(10:43:58)</font> <b>Shant:</b></font> https://www.reddit.com/r/MachineLearning/comments/665flm/p_selfdriving_car_course_with_python_tensorflow/<br/>
+<font color="#A82F2F"><font size="2">(11:03:22)</font> <b>Eddie Y:</b></font> all those sites keep comparing python to R and matlab/octave. not even the same thing.<br/>
+<font color="#A82F2F"><font size="2">(11:03:50)</font> <b>Eddie Y:</b></font> here's a bar graph in R:
+cars &lt;- c(1, 3, 6, 4, 9)
+plot(cars, type=&quot;o&quot;, col=&quot;blue&quot;)<br/>
+<font color="#A82F2F"><font size="2">(11:04:13)</font> <b>Eddie Y:</b></font> here's one in octave/matlab
+x = [1 2 3 4]
+bar(b)<br/>
+<font color="#A82F2F"><font size="2">(11:04:37)</font> <b>Eddie Y:</b></font> here's one in python:
+import matplotlib.pyplot as plt
+plt.rcdefaults()
+import numpy as np
+import matplotlib.pyplot as plt
+
+
+plt.rcdefaults()
+fig, ax = plt.subplots()
+
+# Example data
+people = ('Tom', 'Dick', 'Harry', 'Slim', 'Jim')
+y_pos = np.arange(len(people))
+performance = 3 + 10 * np.random.rand(len(people))
+error = np.random.rand(len(people))
+
+ax.barh(y_pos, performance, xerr=error, align='center',
+        color='green', ecolor='black')
+ax.set_yticks(y_pos)
+ax.set_yticklabels(people)
+ax.invert_yaxis()  # labels read top-to-bottom
+ax.set_xlabel('Performance')
+ax.set_title('How fast do you want to go today?')
+
+plt.show()<br/>
+<font color="#A82F2F"><font size="2">(11:05:07)</font> <b>Eddie Y:</b></font> big diff<br/>
+<font color="#A82F2F"><font size="2">(11:07:21)</font> <b>Eddie Y:</b></font> literally just 2 lines in R and octave<br/>
+<font color="#A82F2F"><font size="2">(11:09:25)</font> <b>Eddie Y:</b></font> but python would allow much finer-grained control over every bit of data, being a full on general purpose programming language.<br/>
+<font color="#16569E"><font size="2">(11:15:08)</font> <b>Shant:</b></font> yeah thats kinda what i mean tho<br/>
+<font color="#16569E"><font size="2">(11:15:28)</font> <b>Shant:</b></font> learning language that just does what R/oct can do is a bit of a waste of time imo<br/>
+<font color="#16569E"><font size="2">(11:15:47)</font> <b>Shant:</b></font> imo anyway, im still using excel/power query lol<br/>
+<font color="#16569E"><font size="2">(11:16:36)</font> <b>Shant:</b></font> tho its all a bit of a waste for me anyways, i get the data in so many different formats<br/>
+<font color="#16569E"><font size="2">(11:16:42)</font> <b>Shant:</b></font> dont think i have a choice but to sort manually :/<br/>
+<font color="#16569E"><font size="2">(11:17:19)</font> <b>Shant:</b></font> but yeah, im still a newb at it all really, the datasets im workin with only get maybe 100,000 lines max<br/>
+<font color="#A82F2F"><font size="2">(11:19:36)</font> <b>Eddie Y:</b></font> you'd have to make something that extracts data from everything into a single format to feed into other programs. fun,  but risky :D<br/>
+<font color="#A82F2F"><font size="2">(11:19:42)</font> <b>Eddie Y:</b></font> probably safer to do it manually lol<br/>
+<font color="#A82F2F"><font size="2">(11:20:22)</font> <b>Eddie Y:</b></font> maybe if the programs can output csv, would make life a lot easier to export stuff<br/>
+<font color="#A82F2F"><font size="2">(11:24:57)</font> <b>Eddie Y:</b></font> I have no idea what I'm talking about pretty much LOL<br/>
+<font color="#16569E"><font size="2">(11:46:46)</font> <b>Shant:</b></font> hahah, yeah i mean<br/>
+<font color="#16569E"><font size="2">(11:46:52)</font> <b>Shant:</b></font> i dunno, its a matter of working on it for ages<br/>
+<font color="#16569E"><font size="2">(11:46:58)</font> <b>Shant:</b></font> and like, cbf i guess haha<br/>
+<font size="2">(12:17:19)</font><b> The account has disconnected and you are no longer in this chat. You will be automatically rejoined in the chat when the account reconnects.</b><br/>
+</body></html>

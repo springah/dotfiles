@@ -1,0 +1,1931 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<purple version='1.0'>
+	<blist>
+		<group name='Hangouts'>
+			<setting name='collapsed' type='bool'>0</setting>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-hangouts'>
+					<name>108317693993785105785</name>
+					<alias>aleigood</alias>
+					<setting name='buddy_icon' type='string'>7a580116d14ae68b71ea8d581ef64c4172a2cfa1.png</setting>
+					<setting name='icon_checksum' type='string'>https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5MI25AitU5ejZMXTmcRqlc8gIhkKAWEQ____________ARiiv-z7______8B/photo.jpg</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-hangouts'>
+					<name>115980390172462763712</name>
+					<alias>Craig Titherington</alias>
+					<setting name='last_seen' type='int'>1493513582</setting>
+					<setting name='buddy_icon' type='string'>5d19d62be22c433515da6624e6c5ea8a3b70d9f0.png</setting>
+					<setting name='icon_checksum' type='string'>https://lh4.googleusercontent.com/-XyEWRjTv_Fs/AAAAAAAAAAI/AAAAAAAAABU/_X7p8a-sLRk/photo.jpg</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-hangouts'>
+					<name>111550336150307482153</name>
+					<alias>Josh</alias>
+					<setting name='last_seen' type='int'>1493513582</setting>
+					<setting name='buddy_icon' type='string'>86f0385ee7a48f79679fc848c877484e3d246a48.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://lh4.googleusercontent.com/-tZXmn2hGYjg/AAAAAAAAAAI/AAAAAAAAAyw/Ezn7k1KOUDw/photo.jpg</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-hangouts'>
+					<name>110996780752398755289</name>
+					<alias>kowalskisan</alias>
+					<setting name='buddy_icon' type='string'>69d36987e473e919bdf438f15df97b3281e631c4.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://lh6.googleusercontent.com/-5nhGBh2m15I/AAAAAAAAAAI/AAAAAAAAAPg/dIuaZddLqgE/photo.jpg</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-hangouts'>
+					<name>102797897336258878357</name>
+					<alias>sime</alias>
+					<setting name='buddy_icon' type='string'>b27c80890b7d91e0b81c46e0d6b5341bdaa85000.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://lh5.googleusercontent.com/-jGddeNrkiGQ/AAAAAAAAAAI/AAAAAAAAAT8/j-HpFcax95A/photo.jpg</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-hangouts'>
+					<name>112973137170383195167</name>
+					<alias>veyne90</alias>
+					<setting name='buddy_icon' type='string'>90f75df56ee59291ad0d48648e3e62d63aa8494d.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://lh3.googleusercontent.com/-J9-G6JUISEw/AAAAAAAAAAI/AAAAAAAAACU/dAEn9JDelBg/photo.jpg</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-hangouts'>
+					<name>111238331115764615750</name>
+					<alias>Work - Dudley COLLINSON</alias>
+					<setting name='buddy_icon' type='string'>ce0a255f75095a37280c28728b6d3681024f5fb9.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://lh3.googleusercontent.com/-ZWAwUOgYCdA/AAAAAAAAAAI/AAAAAAAAACs/z-89g5ZOKWk/photo.jpg</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-hangouts'>
+					<name>106556328501931327528</name>
+					<alias>Work - Ezz</alias>
+					<setting name='buddy_icon' type='string'>b4c7644636ab6889247e832a26220e5f551a043c.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://lh4.googleusercontent.com/-joOmh74TYHQ/AAAAAAAAAAI/AAAAAAAAACw/xzuqPqbTWPk/photo.jpg</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-hangouts'>
+					<name>108504996680528248522</name>
+					<alias>suspicious1@gmail.com</alias>
+					<setting name='buddy_icon' type='string'>66de426e26bdc4ccd26550ac3e30507bee919365.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://lh3.googleusercontent.com/-9hYxD92G338/AAAAAAAAAAI/AAAAAAAAAGU/DLhu0On4b3s/photo.jpg</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-hangouts'>
+					<name>100143981494476802544</name>
+					<alias>Shant K</alias>
+					<setting name='last_seen' type='int'>1493513582</setting>
+					<setting name='buddy_icon' type='string'>70640633c8bc976df7b3ada206564b1b647bbac4.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://lh5.googleusercontent.com/-sqq47d5__jo/AAAAAAAAAAI/AAAAAAAAMLM/p86KCru3s68/photo.jpg</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-hangouts'>
+					<name>102441589162794571740</name>
+					<alias>Edward Murphy</alias>
+					<setting name='last_seen' type='int'>1493513582</setting>
+					<setting name='buddy_icon' type='string'>dd764d1de6a36ac47b5ae1778d00c774775c8284.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://lh4.googleusercontent.com/-nl6JRbHialk/AAAAAAAAAAI/AAAAAAAABAI/mqmEOIoFNFY/photo.jpg</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-hangouts'>
+					<name>113154251628909598320</name>
+					<alias>Mason Broughall</alias>
+					<setting name='last_seen' type='int'>1493513582</setting>
+					<setting name='buddy_icon' type='string'>a2c2c5714b4a95f96d487a5e2bc3b062486139fc.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://lh6.googleusercontent.com/-xMs9XjYrGWs/AAAAAAAAAAI/AAAAAAAAABA/UiRCm04bx3I/photo.jpg</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-hangouts'>
+					<name>103063117427400083126</name>
+					<alias>Taryn Vanjour</alias>
+					<setting name='last_seen' type='int'>1493513582</setting>
+					<setting name='buddy_icon' type='string'>0f4ff69644cc8998657c636d38b3d21de4448e44.jpg</setting>
+					<setting name='icon_checksum' type='string'>https://lh4.googleusercontent.com/-BZgY6VWq270/AAAAAAAAAAI/AAAAAAAABBE/QQgwFM8noZ4/photo.jpg</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-hangouts'>
+					<name>111444560352013737684</name>
+					<alias>Timmothy Clarke</alias>
+					<setting name='last_seen' type='int'>1493513582</setting>
+				</buddy>
+			</contact>
+		</group>
+		<group name='Telegram Chats'>
+			<setting name='collapsed' type='bool'>0</setting>
+			<chat proto='prpl-telegram' account='+61410193313'>
+				<alias>newb central</alias>
+				<component name='id'>18260919</component>
+				<component name='subject'>newb central</component>
+				<component name='type'>2</component>
+				<setting name='custom_buddy_icon' type='string'>edc2c3ba672d3a4235226c231d313a23b644aa8b.jpg</setting>
+				<setting name='tgp_photo_id' type='string'>37576</setting>
+			</chat>
+		</group>
+		<group name='Telegram'>
+			<setting name='collapsed' type='bool'>0</setting>
+			<contact>
+				<buddy account='+61410193313' proto='prpl-telegram'>
+					<name>thenudewizard</name>
+					<setting name='last_seen' type='int'>1493171555</setting>
+					<setting name='buddy_icon' type='string'>78a5a8d5534b6886d4f1cbc959cc6b9594bba97f.jpg</setting>
+					<setting name='peer_type' type='int'>1</setting>
+					<setting name='user_id' type='int'>93697368</setting>
+					<setting name='tgp_photo_id' type='string'>200600</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='+61410193313' proto='prpl-telegram'>
+					<name>rlolham</name>
+					<setting name='last_seen' type='int'>1493171555</setting>
+					<setting name='buddy_icon' type='string'>9347a87b8b01854d2805b882892bd23ecd069789.jpg</setting>
+					<setting name='peer_type' type='int'>1</setting>
+					<setting name='user_id' type='int'>106796936</setting>
+					<setting name='tgp_photo_id' type='string'>61044</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='+61410193313' proto='prpl-telegram'>
+					<name>Eddie Y</name>
+					<setting name='last_seen' type='int'>1493171555</setting>
+					<setting name='peer_type' type='int'>1</setting>
+					<setting name='user_id' type='int'>176094348</setting>
+					<setting name='tgp_photo_id' type='string'>0</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='+61410193313' proto='prpl-telegram'>
+					<name>Scott Parker</name>
+					<setting name='last_seen' type='int'>1493171555</setting>
+					<setting name='buddy_icon' type='string'>d02636f31728e133d224843de5d20e2f9f69891b.jpg</setting>
+					<setting name='peer_type' type='int'>1</setting>
+					<setting name='user_id' type='int'>212036412</setting>
+					<setting name='tgp_photo_id' type='string'>103264</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='+61410193313' proto='prpl-telegram'>
+					<name>Lor-Man</name>
+					<setting name='last_seen' type='int'>1493171555</setting>
+					<setting name='buddy_icon' type='string'>f2a95ba0852475743f0c31516cdc97f142b5855b.jpg</setting>
+					<setting name='peer_type' type='int'>1</setting>
+					<setting name='user_id' type='int'>215447125</setting>
+					<setting name='tgp_photo_id' type='string'>223</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='+61410193313' proto='prpl-telegram'>
+					<name>Monica Lolham</name>
+					<setting name='last_seen' type='int'>1493171555</setting>
+					<setting name='peer_type' type='int'>1</setting>
+					<setting name='user_id' type='int'>227347244</setting>
+					<setting name='tgp_photo_id' type='string'>0</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='+61410193313' proto='prpl-telegram'>
+					<name>Victor Lolham</name>
+					<setting name='last_seen' type='int'>1493171555</setting>
+					<setting name='buddy_icon' type='string'>34eb1297bda7fde054648a705a93cc5490be72ab.jpg</setting>
+					<setting name='peer_type' type='int'>1</setting>
+					<setting name='user_id' type='int'>232862529</setting>
+					<setting name='tgp_photo_id' type='string'>112987</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='+61410193313' proto='prpl-telegram'>
+					<name>Erron Huckle</name>
+					<setting name='last_seen' type='int'>1493171555</setting>
+					<setting name='buddy_icon' type='string'>54f6923cc60a0214a7cf8a2a31a6aea53357196f.jpg</setting>
+					<setting name='peer_type' type='int'>1</setting>
+					<setting name='user_id' type='int'>234351184</setting>
+					<setting name='tgp_photo_id' type='string'>73183</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='+61410193313' proto='prpl-telegram'>
+					<name>Work - Paul Locket</name>
+					<setting name='last_seen' type='int'>1493171555</setting>
+					<setting name='peer_type' type='int'>1</setting>
+					<setting name='user_id' type='int'>292615930</setting>
+					<setting name='tgp_photo_id' type='string'>0</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='+61410193313' proto='prpl-telegram'>
+					<name>Iain Nixon</name>
+					<setting name='last_seen' type='int'>1493171555</setting>
+					<setting name='buddy_icon' type='string'>b92b33bdea73df0f0f6f7ae2b782af6a972d17bf.jpg</setting>
+					<setting name='peer_type' type='int'>1</setting>
+					<setting name='user_id' type='int'>317357231</setting>
+					<setting name='tgp_photo_id' type='string'>146697</setting>
+				</buddy>
+			</contact>
+		</group>
+		<group>
+			<setting name='collapsed' type='bool'>1</setting>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>743755172</name>
+					<setting name='buddy_icon' type='string'>99b350f8d568be97472942251a543e98cfea10fd.jpg</setting>
+					<setting name='icon_checksum' type='string'>73c29d7f6bc6dd0bc7a43a5d0e445be4</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>695424598</name>
+					<setting name='buddy_icon' type='string'>2b278a4bfab2f78947b68acd05b96e8193f68ad0.jpg</setting>
+					<setting name='icon_checksum' type='string'>c12ba4d0c6460571e3c1bc0bff657638</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>625637330</name>
+					<setting name='last_seen' type='int'>1493445382</setting>
+					<setting name='buddy_icon' type='string'>866612b540ccbfa776215703cc1b3a7399e2d7cc.jpg</setting>
+					<setting name='icon_checksum' type='string'>43b732e4b25485581d3c6e5c738642b4</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>602421886</name>
+					<setting name='last_seen' type='int'>1493382724</setting>
+					<setting name='buddy_icon' type='string'>012403538cd8c96c6a548a8a09248f0c592f25ed.jpg</setting>
+					<setting name='icon_checksum' type='string'>bf799473fafa71ff6dea5c727085221b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>565903704</name>
+					<setting name='last_seen' type='int'>1493382114</setting>
+					<setting name='buddy_icon' type='string'>3a4acbe4ed53e849400ed9ffb803125f11cddb22.jpg</setting>
+					<setting name='icon_checksum' type='string'>35e764ba12f650639b2591f3f8cfa329</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>750771112</name>
+					<setting name='last_seen' type='int'>1493412766</setting>
+					<setting name='buddy_icon' type='string'>6ac3d162d05565b8d219de7244368e3470313013.jpg</setting>
+					<setting name='icon_checksum' type='string'>525209ed6cc0c7c8b4ba95bb629f22fc</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>568288066</name>
+					<setting name='last_seen' type='int'>1493413974</setting>
+					<setting name='buddy_icon' type='string'>c82fee6758966363bcb76065c8aa9ce070a7ae90.jpg</setting>
+					<setting name='icon_checksum' type='string'>2d17d612cd2c7e3db370d5f23fc4c5a5</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>561746583</name>
+					<setting name='last_seen' type='int'>1493448402</setting>
+					<setting name='buddy_icon' type='string'>27db5bccba6755e755f35ccfd623d1c739d920f8.jpg</setting>
+					<setting name='icon_checksum' type='string'>b2e9a0624e7a070413b88c18f9574b7b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>533616822</name>
+					<setting name='last_seen' type='int'>1493443117</setting>
+					<setting name='buddy_icon' type='string'>748cc0d107b3f1c88e69de2bdd2b592d2a0e53ce.jpg</setting>
+					<setting name='icon_checksum' type='string'>c1cec9876b601988679ccf00dabb1f87</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>701225949</name>
+					<setting name='last_seen' type='int'>1493452781</setting>
+					<setting name='buddy_icon' type='string'>18946155d37d8c0ace4fad318b43c91f0f8a46e8.jpg</setting>
+					<setting name='icon_checksum' type='string'>9443c852b0428c6c9248e46aed7a81e4</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>750066342</name>
+					<setting name='last_seen' type='int'>1493451875</setting>
+					<setting name='buddy_icon' type='string'>27cad2ca7ed07205c24d2a43d0a37d74e7fd5c67.jpg</setting>
+					<setting name='icon_checksum' type='string'>00b7b46db3e9764c567f1218f780aa52</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>683168592</name>
+					<setting name='last_seen' type='int'>1493453262</setting>
+					<setting name='buddy_icon' type='string'>f8df7dadf5dbbdfa06362d7d883c164a82baae2e.jpg</setting>
+					<setting name='icon_checksum' type='string'>8005482f34436a45dfdb986f0b13ce4c</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>615163932</name>
+					<setting name='last_seen' type='int'>1493431792</setting>
+					<setting name='buddy_icon' type='string'>3bfffdb8bfbc5f831c51cf7c7840d71063d735cd.jpg</setting>
+					<setting name='icon_checksum' type='string'>9ac9d9496546f4c637e37f933fdf159e</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>558332197</name>
+					<setting name='last_seen' type='int'>1493452328</setting>
+					<setting name='buddy_icon' type='string'>d3429518365ad33fe98ddae0d411431f187fadc3.jpg</setting>
+					<setting name='icon_checksum' type='string'>caa6e8342bcc3efad6747d7fa44aa8cb</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>712231909</name>
+					<setting name='buddy_icon' type='string'>5cdd867b9d60bec0a3897ad6d9b26ad295a7b49c.jpg</setting>
+					<setting name='icon_checksum' type='string'>3b9b1cb2f7bf4625eb550c0c0ec2f00a</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>663942159</name>
+					<setting name='last_seen' type='int'>1493433755</setting>
+					<setting name='buddy_icon' type='string'>608a6f603076b733361f97d8790181f24dd9ae7f.jpg</setting>
+					<setting name='icon_checksum' type='string'>f3a11cb9ae0a8a75a729aeddc5916cce</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>682519319</name>
+					<setting name='buddy_icon' type='string'>d99f0792a564d91e783f577aac04e54eab32afa1.jpg</setting>
+					<setting name='icon_checksum' type='string'>eea1803c9bb896299b2e115cf9ac88bc</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>650892565</name>
+					<setting name='last_seen' type='int'>1493447345</setting>
+					<setting name='buddy_icon' type='string'>08d25ab64e9e09c600d7da0ba835b8475a789bd7.jpg</setting>
+					<setting name='icon_checksum' type='string'>7bbac0fd04713161778118e2d9ef9daf</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>568752337</name>
+					<setting name='last_seen' type='int'>1493438436</setting>
+					<setting name='buddy_icon' type='string'>7d2753fd9b8e51cd70ddbbecdd88674c93816ee5.jpg</setting>
+					<setting name='icon_checksum' type='string'>3e599e03f2b5244e4bd80d53c7947e23</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>717502917</name>
+					<setting name='last_seen' type='int'>1493433755</setting>
+					<setting name='buddy_icon' type='string'>f299c042b266353af52e9d9d8ef0cbe8536454d4.jpg</setting>
+					<setting name='icon_checksum' type='string'>635b46dea6505ed783c4114ec81d6cd2</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>589166258</name>
+					<setting name='buddy_icon' type='string'>41b55e01462c3adaa5acbe81bbaac5a67d13d463.jpg</setting>
+					<setting name='icon_checksum' type='string'>4d775b0b31054a97c552cee95f85f870</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>904220104</name>
+					<setting name='last_seen' type='int'>1493373361</setting>
+					<setting name='buddy_icon' type='string'>6f4feb6b74f5dc95e7e22ebf1f3260ce9de3ecbe.jpg</setting>
+					<setting name='icon_checksum' type='string'>2ffb01db7e0b3bfd6f1b5fcd87cf3bff</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>550045549</name>
+					<setting name='buddy_icon' type='string'>2ba89d6fdc98d1eb19fe7fa384f19dbdf8a51fea.jpg</setting>
+					<setting name='icon_checksum' type='string'>6dd3d2cfe073c6db7b1206eaff2bc393</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>587971037</name>
+					<setting name='last_seen' type='int'>1493453838</setting>
+					<setting name='buddy_icon' type='string'>e2437b5f3d774cbc25b3c57a3b8e7a613205adbb.jpg</setting>
+					<setting name='icon_checksum' type='string'>ea712fbe7dedf3d44db958addf5583de</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>696731564</name>
+					<setting name='last_seen' type='int'>1493370491</setting>
+					<setting name='buddy_icon' type='string'>3f490c4a49e37401e64eeff9ec9b898cb9189437.jpg</setting>
+					<setting name='icon_checksum' type='string'>631c23c973991d6f2a9248301f563788</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1055160925</name>
+					<setting name='last_seen' type='int'>1493443570</setting>
+					<setting name='buddy_icon' type='string'>8930217efb73d742c5f81d124d26e519a52c2e40.jpg</setting>
+					<setting name='icon_checksum' type='string'>5173f477e087d8ff5f36a0c2665e9534</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>833930018</name>
+					<setting name='last_seen' type='int'>1493439946</setting>
+					<setting name='buddy_icon' type='string'>876c1790873fb50b542f0ed97a2cb8c8befa8318.jpg</setting>
+					<setting name='icon_checksum' type='string'>442ca2f5aecfca6cca45a212dc397973</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>581856499</name>
+					<setting name='last_seen' type='int'>1493423789</setting>
+					<setting name='buddy_icon' type='string'>de9ba85770274fcd0113079f88a38f15f0ed5f4b.jpg</setting>
+					<setting name='icon_checksum' type='string'>57fdbdcd883e5e38b623992032e22a8e</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>716085056</name>
+					<setting name='last_seen' type='int'>1493449308</setting>
+					<setting name='buddy_icon' type='string'>cd1e25894ea48983a0d0082a6be27582698d3fca.jpg</setting>
+					<setting name='icon_checksum' type='string'>2d3ad73ede55c5edaab38806fc2bd589</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>674361018</name>
+					<setting name='last_seen' type='int'>1493453083</setting>
+					<setting name='buddy_icon' type='string'>7e94d2b2c06fea3b9b1a057f5d3ea76239af3a22.jpg</setting>
+					<setting name='icon_checksum' type='string'>cb3dac07c08d5d2cfb06b7ddde194b7b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>709895951</name>
+					<setting name='last_seen' type='int'>1493452612</setting>
+					<setting name='buddy_icon' type='string'>d1e4999e8f52b50aac7c3c49d492fef2c20581b1.jpg</setting>
+					<setting name='icon_checksum' type='string'>f220ee51cde4c3d554995a49f0201266</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>723124082</name>
+					<setting name='buddy_icon' type='string'>aabd7a7e1e011d08f8c27a2997cf057c93e3616f.jpg</setting>
+					<setting name='icon_checksum' type='string'>e31082128712bcc2efa067e9ebd00a33</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>550146433</name>
+					<setting name='buddy_icon' type='string'>86dafd9b9f97a3aa5cd7c3d79b57522a04a44878.jpg</setting>
+					<setting name='icon_checksum' type='string'>4286a985c85c4328dc0836e0f0cf8b3a</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>724117688</name>
+					<setting name='buddy_icon' type='string'>aaa48bb82709f9f8f4eb2598c996b8f75ea3a035.jpg</setting>
+					<setting name='icon_checksum' type='string'>62484f955949935a251678a13a9588a2</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>614966856</name>
+					<setting name='buddy_icon' type='string'>39d0d2d954072c955cc384b0f15a382c137b9175.jpg</setting>
+					<setting name='icon_checksum' type='string'>816b4fa5a2e59bc4e763f18a9e000846</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>749265069</name>
+					<setting name='buddy_icon' type='string'>7dea3f5fe8971812bb1f232ce21b3cab83195e29.jpg</setting>
+					<setting name='icon_checksum' type='string'>3c3fa677de8b2471c229e9553bb89652</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1210923768</name>
+					<setting name='last_seen' type='int'>1493423789</setting>
+					<setting name='buddy_icon' type='string'>dbfb25c0704412daf645c41011acc1fd9a442369.jpg</setting>
+					<setting name='icon_checksum' type='string'>60e7a0acf0c4daf8b1a897a5e4c60786</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1105715178</name>
+					<setting name='buddy_icon' type='string'>f06efb562dcff6a732ca4cd4bf4e86b4f00350ed.jpg</setting>
+					<setting name='icon_checksum' type='string'>143472e947f40b608c93c2352a28784b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>750846006</name>
+					<setting name='buddy_icon' type='string'>9652d3d23225c9a23ed040dfd17358bd7ae7eb87.jpg</setting>
+					<setting name='icon_checksum' type='string'>c62a6dcc8d9fa773f75965e22904e4bb</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>533211089</name>
+					<setting name='last_seen' type='int'>1493265773</setting>
+					<setting name='buddy_icon' type='string'>0e3a87a493efae4942de4412cc4906a9d69e4876.jpg</setting>
+					<setting name='icon_checksum' type='string'>d508de5e26e59c04bb9ecaa40cb4770c</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>586027012</name>
+					<setting name='last_seen' type='int'>1493453687</setting>
+					<setting name='buddy_icon' type='string'>1fdc26e942b53b0d7f3bf05262730931557b3ce6.jpg</setting>
+					<setting name='icon_checksum' type='string'>648ff699bed64620713a54a8f826e4ab</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>824770121</name>
+					<setting name='buddy_icon' type='string'>a7c7c8f99bc12dcb68c8052d8f569ca806f9c274.jpg</setting>
+					<setting name='icon_checksum' type='string'>8534c6af7c08354c7e7a87d4644185ad</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>677503321</name>
+					<setting name='last_seen' type='int'>1493430735</setting>
+					<setting name='buddy_icon' type='string'>969954ff37d68d3eeeaabc9c5891b6c5ed79cbf2.jpg</setting>
+					<setting name='icon_checksum' type='string'>859839de57a116b2f514213d044d50b5</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>644667819</name>
+					<setting name='last_seen' type='int'>1493387851</setting>
+					<setting name='buddy_icon' type='string'>461b10a35bb234c643ace04ef7139347b54dbed9.jpg</setting>
+					<setting name='icon_checksum' type='string'>cc18bdc3107c8047545e7454c4a87b65</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>629545401</name>
+					<setting name='last_seen' type='int'>1493436775</setting>
+					<setting name='buddy_icon' type='string'>9be7a8a787ae8192f40b14632a0e77613a244ce3.jpg</setting>
+					<setting name='icon_checksum' type='string'>9a2e9fd02bc7a1d29fdf00e883388f7c</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>681592274</name>
+					<setting name='last_seen' type='int'>1493453536</setting>
+					<setting name='buddy_icon' type='string'>5b9cd14e96d68b5badfbd6993e4ffdf2ef527064.jpg</setting>
+					<setting name='icon_checksum' type='string'>d860466b8423ebb2aa97306a187097ae</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>699618124</name>
+					<setting name='last_seen' type='int'>1493433906</setting>
+					<setting name='buddy_icon' type='string'>efaa70913f71aa6db6d0e47d9f56a1d6328ccd11.jpg</setting>
+					<setting name='icon_checksum' type='string'>9adc087500db1151932b0f35dd4124fa</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>596404429</name>
+					<setting name='buddy_icon' type='string'>b663126ec9db82c0cfa5fdf6f0029584e11f02c6.jpg</setting>
+					<setting name='icon_checksum' type='string'>399c6031de748c61c89eed4cf0eed16e</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>669460705</name>
+					<setting name='last_seen' type='int'>1493452781</setting>
+					<setting name='buddy_icon' type='string'>3ab31a162d9bac1518097c9021cdf24356c93106.jpg</setting>
+					<setting name='icon_checksum' type='string'>7d18a16837dfd4b1fa5a15f408d0afd8</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>714348659</name>
+					<setting name='buddy_icon' type='string'>d7b428ef6798089fbb47008df47f67c0e64e729e.jpg</setting>
+					<setting name='icon_checksum' type='string'>dc69d4ba1981bbf2c5dc327d77295178</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>751115357</name>
+					<setting name='last_seen' type='int'>1493449610</setting>
+					<setting name='buddy_icon' type='string'>0140edea89df2634004c266c8a7a994c783a6241.jpg</setting>
+					<setting name='icon_checksum' type='string'>1649c8cfdb1c6d98aa43905c4d35f2b6</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1019386459</name>
+					<setting name='last_seen' type='int'>1493452026</setting>
+					<setting name='buddy_icon' type='string'>98ccbbf6aa500cc2fe48438f72b469a59541f6dc.jpg</setting>
+					<setting name='icon_checksum' type='string'>7178a172261460c45b71c1bd7a7b9061</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>633555137</name>
+					<setting name='buddy_icon' type='string'>945bb4e0ac97ad8c41bf443ed254d83a15e4632f.jpg</setting>
+					<setting name='icon_checksum' type='string'>fd29355dddb6ae0db41d5f3aa18a478f</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>502996965</name>
+					<setting name='last_seen' type='int'>1493453687</setting>
+					<setting name='buddy_icon' type='string'>d4f3e3caf2168cec4eba05d57daffec962bbbfdd.jpg</setting>
+					<setting name='icon_checksum' type='string'>9308ebb355b8a56e36a332bd2b2b3a9d</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>563896145</name>
+					<setting name='buddy_icon' type='string'>e188f86b23ef52c2a84fd3d7fcc98499469d1e3a.jpg</setting>
+					<setting name='icon_checksum' type='string'>c80ce4dff7a01c08b0c0e099857f6e11</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>662897213</name>
+					<setting name='last_seen' type='int'>1493453083</setting>
+					<setting name='buddy_icon' type='string'>c787bb31a998f4895e73acce2050c4ccc48b11ae.jpg</setting>
+					<setting name='icon_checksum' type='string'>37957c7b0da97ac96a16de0f574c5e34</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>819839118</name>
+					<setting name='last_seen' type='int'>1493450063</setting>
+					<setting name='buddy_icon' type='string'>d7a85555e1cc28a62ef425c5246080a417377072.jpg</setting>
+					<setting name='icon_checksum' type='string'>5dabc5579f8dfc82c752d74fc96c63a8</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>684512147</name>
+					<setting name='buddy_icon' type='string'>8b8e379e54aba18e17c86695c32472f5f6981d80.jpg</setting>
+					<setting name='icon_checksum' type='string'>9eacf9e3637ea676e95b305c9f111f31</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>733557998</name>
+					<setting name='last_seen' type='int'>1493439924</setting>
+					<setting name='buddy_icon' type='string'>e1033f075b3eeaac250dd345aae876ab9eafabde.jpg</setting>
+					<setting name='icon_checksum' type='string'>618e34bf566bfbd392c5411d39f6a666</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1003475878</name>
+					<setting name='buddy_icon' type='string'>0f040b8fb4b0f8d3c7edf2f1630abcc06c1cbce4.jpg</setting>
+					<setting name='icon_checksum' type='string'>beab214995fb8f39fc7db7dee613f89f</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1411520788</name>
+					<setting name='last_seen' type='int'>1493369585</setting>
+					<setting name='buddy_icon' type='string'>dd189bfb9b3932102f0cf77949bb9ab94a96d9f6.jpg</setting>
+					<setting name='icon_checksum' type='string'>10ad0eb48735a9530e2b32baa2984846</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1646650315</name>
+					<setting name='last_seen' type='int'>1493508679</setting>
+					<setting name='buddy_icon' type='string'>6f9a25b74b6a12f4bcf7447be53219d4d35b4e87.jpg</setting>
+					<setting name='icon_checksum' type='string'>a3ae19ce3db5b55a030dabcbe3d49b3f</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1071744170</name>
+					<setting name='last_seen' type='int'>1493452328</setting>
+					<setting name='buddy_icon' type='string'>54079f67f4d68f8159ada89953ba1c454dc187f0.jpg</setting>
+					<setting name='icon_checksum' type='string'>2a20f977d30a13a6f5a698fdfc3a42de</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>593565298</name>
+					<setting name='last_seen' type='int'>1493439795</setting>
+					<setting name='buddy_icon' type='string'>b3036d2e4725410d48717d4b21e4fff6d3a0c559.jpg</setting>
+					<setting name='icon_checksum' type='string'>9671640086c5e9b94ef120d3bd7686d6</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>693291827</name>
+					<setting name='last_seen' type='int'>1493447043</setting>
+					<setting name='buddy_icon' type='string'>d8434fa2d51a14b65853db7179b7f6f90634138d.jpg</setting>
+					<setting name='icon_checksum' type='string'>30b71c0c8f9bf42289b2fde56fa135b7</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1441672087</name>
+					<setting name='last_seen' type='int'>1493440399</setting>
+					<setting name='buddy_icon' type='string'>9b2c8a26d9a176acb5483c9269ebf2c6f740d94a.jpg</setting>
+					<setting name='icon_checksum' type='string'>ef99a60c9f7659b22cc3ecb50b687f5d</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1270900907</name>
+					<setting name='last_seen' type='int'>1493449157</setting>
+					<setting name='buddy_icon' type='string'>37fa529afeb45848a0e3c64f95b9b61efd423d67.jpg</setting>
+					<setting name='icon_checksum' type='string'>ab401c1bbe143c849bf68913f7a54d52</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1209795949</name>
+					<setting name='last_seen' type='int'>1493444174</setting>
+					<setting name='buddy_icon' type='string'>a16b8b3fcaf02b15f9aedf97d350c144878df3ff.jpg</setting>
+					<setting name='icon_checksum' type='string'>54804562d4fed566861ceb510d8f3b49</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1614126928</name>
+					<setting name='buddy_icon' type='string'>edbddf01e24689db11c6bf61c774df1ab279a664.jpg</setting>
+					<setting name='icon_checksum' type='string'>78a77583029ea97795cf66ff2086a7c7</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>674160495</name>
+					<setting name='buddy_icon' type='string'>051c717584db5570ad6f562d2152e869316a8dc7.jpg</setting>
+					<setting name='icon_checksum' type='string'>e39a0321d20fc130adcb15d90b74631b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100000099694655</name>
+					<setting name='buddy_icon' type='string'>f47fd13ec7aa725b1bbd3665030c697b3d0f991d.jpg</setting>
+					<setting name='icon_checksum' type='string'>8c9fda9a5752c0bf24274e0696c17210</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>699660392</name>
+					<setting name='buddy_icon' type='string'>2835933a71c8172636cff89ae8e60f3e8412a762.jpg</setting>
+					<setting name='icon_checksum' type='string'>6ed134d3530b7b3695201a08e094d1bb</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>587991131</name>
+					<setting name='buddy_icon' type='string'>b57f910d2a7d5d1ee9db5d662b54308e078e4979.jpg</setting>
+					<setting name='icon_checksum' type='string'>5d25439eb7f1230ffb8f9fce72883855</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>668671486</name>
+					<setting name='last_seen' type='int'>1493417296</setting>
+					<setting name='buddy_icon' type='string'>98327b739fce126b4dc84db6d30aada5de360300.jpg</setting>
+					<setting name='icon_checksum' type='string'>c0a2a4f50ff62b314b510fc419653445</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100000173552826</name>
+					<setting name='buddy_icon' type='string'>20c0333eced25213a388cd4eb5ba798a0186a68c.jpg</setting>
+					<setting name='icon_checksum' type='string'>cdf4c3c2634a0971a0238b43fea0d1a5</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>558187391</name>
+					<setting name='last_seen' type='int'>1493453536</setting>
+					<setting name='buddy_icon' type='string'>504a913663d8408e685b01aa0075f1abaf975937.jpg</setting>
+					<setting name='icon_checksum' type='string'>85d00dccd2573e9d32ed5b2eb007629e</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1613952362</name>
+					<setting name='buddy_icon' type='string'>f06efb562dcff6a732ca4cd4bf4e86b4f00350ed.jpg</setting>
+					<setting name='icon_checksum' type='string'>143472e947f40b608c93c2352a28784b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1681456365</name>
+					<setting name='buddy_icon' type='string'>1db4f8a3c61bebfc37963adba9890bef591d0091.jpg</setting>
+					<setting name='icon_checksum' type='string'>3ca4eed5c71522cd37600a839c775353</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>686478484</name>
+					<setting name='last_seen' type='int'>1493357992</setting>
+					<setting name='buddy_icon' type='string'>958d06a1f595c46a4538a971216477092454fdda.jpg</setting>
+					<setting name='icon_checksum' type='string'>9f3edd1f042d6d43b93e5d6b37bd2546</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100000424314537</name>
+					<setting name='last_seen' type='int'>1493508679</setting>
+					<setting name='buddy_icon' type='string'>92b343b0f0a91704e73d29a55c31570fb9f9cbe3.jpg</setting>
+					<setting name='icon_checksum' type='string'>87b93cacd1062e1c75fc045ff556b27a</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>550968977</name>
+					<setting name='buddy_icon' type='string'>fd79d92cac08da23514ce15a5b2d4a2897d20ff1.jpg</setting>
+					<setting name='icon_checksum' type='string'>1c21887207a93a2f929db3eeba8eecd0</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>674951719</name>
+					<setting name='buddy_icon' type='string'>c53b8c66fd495e117a530b9441d5e498f0fb4aa5.jpg</setting>
+					<setting name='icon_checksum' type='string'>4ce9bec0b6f1a29c046cb971cb00fa1b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1273305561</name>
+					<setting name='buddy_icon' type='string'>b038bdab25e03fc6e2444bacaf503f28f3270550.jpg</setting>
+					<setting name='icon_checksum' type='string'>20090778f7c6508eab5bb6a845727392</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1174235062</name>
+					<setting name='last_seen' type='int'>1493452479</setting>
+					<setting name='buddy_icon' type='string'>0cddfc5d74b703a71431f0e0e25c85f665b4647c.jpg</setting>
+					<setting name='icon_checksum' type='string'>e7a13f0914d2331496238021c0e56e01</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100000766305634</name>
+					<setting name='buddy_icon' type='string'>1f5f245aacfe613f4106f697b5c4d439a015a4e7.jpg</setting>
+					<setting name='icon_checksum' type='string'>2ecb731635e1586491c3c9f0b0ef5bf7</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1308818293</name>
+					<setting name='buddy_icon' type='string'>32f6060ee5574e812db3738990e9960273193996.jpg</setting>
+					<setting name='icon_checksum' type='string'>0003f6cc7c1f247b2eb0174cb30c8b3a</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>638146063</name>
+					<setting name='last_seen' type='int'>1493452932</setting>
+					<setting name='buddy_icon' type='string'>49b255d83917110b961c39ae10e607facccb736c.jpg</setting>
+					<setting name='icon_checksum' type='string'>2a62178b4a079eb465670ad265721f14</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>595866969</name>
+					<setting name='last_seen' type='int'>1493452479</setting>
+					<setting name='buddy_icon' type='string'>87f09ea1802c6edc6c76eb675dc7946cc5a928f4.jpg</setting>
+					<setting name='icon_checksum' type='string'>f6372a2cf649fa6123da980df036b1ac</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100000910824963</name>
+					<setting name='last_seen' type='int'>1493450969</setting>
+					<setting name='buddy_icon' type='string'>4fc02a7a67d186b992d14039a279afeb53296593.jpg</setting>
+					<setting name='icon_checksum' type='string'>9ba3042a258de37501e93ade20800488</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100000830790429</name>
+					<setting name='last_seen' type='int'>1493357539</setting>
+					<setting name='buddy_icon' type='string'>a35fe6e799f8da9de411ea51975ba490f0685030.jpg</setting>
+					<setting name='icon_checksum' type='string'>6d0be9f437fdb4d14778ad701e4128cf</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1004717612</name>
+					<setting name='buddy_icon' type='string'>00223ed5e91e2374f64d5a2be5a9355368d4960d.jpg</setting>
+					<setting name='icon_checksum' type='string'>990361e111d794977702cb310d96b417</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100001190797433</name>
+					<setting name='last_seen' type='int'>1493356513</setting>
+					<setting name='buddy_icon' type='string'>65a2909c939bf1d5bad31ce6aac7daa9b5ff6e7b.jpg</setting>
+					<setting name='icon_checksum' type='string'>1df1280947055dfa69cee3d58197dcbc</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>843355771</name>
+					<setting name='last_seen' type='int'>1493265473</setting>
+					<setting name='buddy_icon' type='string'>c370b889494efc19ea4f2dbff2fe8e9e045d5bff.jpg</setting>
+					<setting name='icon_checksum' type='string'>c972d7076fc491c9c1ab65c1cfbf88d3</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100000074618805</name>
+					<setting name='buddy_icon' type='string'>39be9971f2dafba720e19e422f689e7e5be4d002.jpg</setting>
+					<setting name='icon_checksum' type='string'>62b40c0ce906e3f2109d694bb4ab6722</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100001175096968</name>
+					<setting name='buddy_icon' type='string'>1d68e6512de4a6a71f83aff93758e267d2dc2aa3.jpg</setting>
+					<setting name='icon_checksum' type='string'>578f989eeb7df7dbe5d78d5fec788dee</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>723731027</name>
+					<setting name='last_seen' type='int'>1493374720</setting>
+					<setting name='buddy_icon' type='string'>71b4aa92fa0adec1b3503e1dffc68e1499fcf185.jpg</setting>
+					<setting name='icon_checksum' type='string'>11f1699ae37a6c330f55237ce12b016e</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100001641492838</name>
+					<setting name='buddy_icon' type='string'>0c61a35f94e642d51acf0f1982b5f69272a65513.jpg</setting>
+					<setting name='icon_checksum' type='string'>17496e0ca369c83442b721fa59b34b2b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1483303847</name>
+					<setting name='buddy_icon' type='string'>b2b99c1d2a0b915ebbda6900766a7fb3002170d4.jpg</setting>
+					<setting name='icon_checksum' type='string'>e72314b50eb8d0084d38c9448aa08777</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100001711687390</name>
+					<setting name='buddy_icon' type='string'>bfd5d4fb3ca0b041dd49d0e3387d2b3ce7106f08.jpg</setting>
+					<setting name='icon_checksum' type='string'>67f6dea87039f2e1b211ca6219ce30b4</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100001698420490</name>
+					<setting name='buddy_icon' type='string'>d1843440c241ba62a385f93fa4376ae579276976.jpg</setting>
+					<setting name='icon_checksum' type='string'>212296a42807ef34cc4b604fea7b840b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100000353815847</name>
+					<setting name='buddy_icon' type='string'>d1e8721b2898cdc26dc46d6cbb2f517057056a53.jpg</setting>
+					<setting name='icon_checksum' type='string'>d8eef9741465304223d32eba3b9b7ce6</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1573801750</name>
+					<setting name='last_seen' type='int'>1493452781</setting>
+					<setting name='buddy_icon' type='string'>7c956c14e3cd18cef5a0594dc4825580c79021b0.jpg</setting>
+					<setting name='icon_checksum' type='string'>fa4e3175d1f6a00d1bd328645e6a3bec</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>536548893</name>
+					<setting name='buddy_icon' type='string'>ac35c54e1f5a8116711b1ddd35be1b2faa432fe1.jpg</setting>
+					<setting name='icon_checksum' type='string'>ab7b46abc82abbf275a04d397ade13aa</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>712531635</name>
+					<setting name='last_seen' type='int'>1493439191</setting>
+					<setting name='buddy_icon' type='string'>eb6f67f1f92e166e6a08b6a9b2770bd8abbaa92e.jpg</setting>
+					<setting name='icon_checksum' type='string'>733aa57cdeae8c0493fb2d633cac7b5e</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100002241865921</name>
+					<setting name='last_seen' type='int'>1493423185</setting>
+					<setting name='buddy_icon' type='string'>548c244c71132348f471eaa871c1e1c1b991ad6f.jpg</setting>
+					<setting name='icon_checksum' type='string'>6150420f4406b86fe1d5c2e651267704</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>540303318</name>
+					<setting name='buddy_icon' type='string'>9680f5ef7fc7a9c35be07203de94381a966cc0f8.jpg</setting>
+					<setting name='icon_checksum' type='string'>5db31e42a22585e9c1df3aaa9616771f</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>692982847</name>
+					<setting name='last_seen' type='int'>1493418806</setting>
+					<setting name='buddy_icon' type='string'>b9475be323e109c95d3b1d96f9e45b518247c9ba.jpg</setting>
+					<setting name='icon_checksum' type='string'>5da38aede3cfac0a305e5baae70eb898</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1031267731</name>
+					<setting name='buddy_icon' type='string'>e6e14b9ceea16bdc89be7826237585fa177e1d34.jpg</setting>
+					<setting name='icon_checksum' type='string'>c431c31e3926ba12de098455573d6299</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100002677842302</name>
+					<setting name='last_seen' type='int'>1493508679</setting>
+					<setting name='buddy_icon' type='string'>0030387c7a89fe49093521e69b14f3dc9f27288b.jpg</setting>
+					<setting name='icon_checksum' type='string'>3af0b3aa61dece8f82b144e6d7d374f4</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1610887851</name>
+					<setting name='buddy_icon' type='string'>c8ce29d0dabeb4dc23fe30bbd2565594c8b45f98.jpg</setting>
+					<setting name='icon_checksum' type='string'>457593d190ab6dc60fb82e70f4805ca9</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>566598665</name>
+					<setting name='buddy_icon' type='string'>8150660d94ed9057e3a21ef87d31d0ef543737bd.jpg</setting>
+					<setting name='icon_checksum' type='string'>6c72741755cab72b078372573167fac1</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>521981351</name>
+					<setting name='buddy_icon' type='string'>38d839821d6dc466b517e762d5092d7833de27ae.jpg</setting>
+					<setting name='icon_checksum' type='string'>8fe8c81fdc6e33a08f4c064a5304b0c3</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>594655538</name>
+					<setting name='last_seen' type='int'>1493453083</setting>
+					<setting name='buddy_icon' type='string'>76d3573e2cdaf237653728df748638770c65087a.jpg</setting>
+					<setting name='icon_checksum' type='string'>977dc1f7e027e837a7766fb83fba4682</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1446222955</name>
+					<setting name='last_seen' type='int'>1493447194</setting>
+					<setting name='buddy_icon' type='string'>ae68248387a2d3372f48532c7cb84f57106d3af5.jpg</setting>
+					<setting name='icon_checksum' type='string'>c895855d44c3ec7fa7f0b5ce7a33662f</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100000950139183</name>
+					<setting name='buddy_icon' type='string'>fece7c8d163b79cd61832e2021b5aea56dc914b5.jpg</setting>
+					<setting name='icon_checksum' type='string'>ad010a6e0829fdbac0c6c02fe173819a</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100003119048405</name>
+					<setting name='last_seen' type='int'>1493446860</setting>
+					<setting name='buddy_icon' type='string'>e22d8585e8319b88e3159baa7ec22fae84010258.jpg</setting>
+					<setting name='icon_checksum' type='string'>95929973561e26019d8e746dc7398515</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>585913464</name>
+					<setting name='last_seen' type='int'>1493438798</setting>
+					<setting name='buddy_icon' type='string'>0bef4f7356238023fc2068a63bc7be8de7481e01.jpg</setting>
+					<setting name='icon_checksum' type='string'>1c87220e28a6c737b3c996a9852d58fe</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100002557497288</name>
+					<setting name='last_seen' type='int'>1493441003</setting>
+					<setting name='buddy_icon' type='string'>754461daea6afd0ccb9b07d3acbaf16e056bc713.jpg</setting>
+					<setting name='icon_checksum' type='string'>6cabb229ec66e225861c813df621c5a8</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>560494523</name>
+					<setting name='last_seen' type='int'>1493447949</setting>
+					<setting name='buddy_icon' type='string'>45896793e345eefc8ec77b23cfa55fba43278942.jpg</setting>
+					<setting name='icon_checksum' type='string'>24ac3d55c6dd13e44f851a6d81040481</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>717925783</name>
+					<setting name='last_seen' type='int'>1493426356</setting>
+					<setting name='buddy_icon' type='string'>ede421fa8992910781af2f8ecaa464a3958c4ed9.jpg</setting>
+					<setting name='icon_checksum' type='string'>33c7f711a3b2e5b3f3e99cd9d29d7ff9</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100004326361833</name>
+					<setting name='last_seen' type='int'>1493449262</setting>
+					<setting name='buddy_icon' type='string'>631df81075a123bbe5a0d39cf41f89bdfad231fd.jpg</setting>
+					<setting name='icon_checksum' type='string'>afc59ee54bf5e4f4a44bc42631b7449c</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1187947840</name>
+					<setting name='last_seen' type='int'>1493440852</setting>
+					<setting name='buddy_icon' type='string'>a243af94c02fa6e0bb5c86d74e6b6edf97b431a4.jpg</setting>
+					<setting name='icon_checksum' type='string'>7908da4f8f57c0a11b9def41da63b1ff</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1000339804</name>
+					<setting name='last_seen' type='int'>1493452781</setting>
+					<setting name='buddy_icon' type='string'>a150eac0fde58d4da42cd9feb6e3bb7155876e5c.jpg</setting>
+					<setting name='icon_checksum' type='string'>980c6222bb33c684cd8f013c354bf105</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100003467140164</name>
+					<setting name='buddy_icon' type='string'>98a16962e5c25c2e8ad9e7168e1465348f60ce1b.jpg</setting>
+					<setting name='icon_checksum' type='string'>89edd75e449a172ffbc04489f2ffa69c</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100005256182534</name>
+					<setting name='last_seen' type='int'>1493425903</setting>
+					<setting name='buddy_icon' type='string'>0f523cea4830ea8f296b49459b5d8ba7846764a4.jpg</setting>
+					<setting name='icon_checksum' type='string'>acd70fa09f445c2b1238fe22e35a8533</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>627679051</name>
+					<setting name='last_seen' type='int'>1493508679</setting>
+					<setting name='buddy_icon' type='string'>7a5021a1970487a70887403c9155fbaa3248b016.jpg</setting>
+					<setting name='icon_checksum' type='string'>bc4b54571ced0405d6da2b19f0555002</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100004847618536</name>
+					<setting name='buddy_icon' type='string'>cf3445ae28df558f4cc3c6a82eaac53ca20c27c7.jpg</setting>
+					<setting name='icon_checksum' type='string'>60bfcfd3161a9b588b072e7f5148ed35</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100006095166528</name>
+					<setting name='buddy_icon' type='string'>f06efb562dcff6a732ca4cd4bf4e86b4f00350ed.jpg</setting>
+					<setting name='icon_checksum' type='string'>143472e947f40b608c93c2352a28784b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1577673498</name>
+					<setting name='last_seen' type='int'>1493352490</setting>
+					<setting name='buddy_icon' type='string'>e3535f50a6e54c9cf88e4dcab6b77df529a55588.jpg</setting>
+					<setting name='icon_checksum' type='string'>215e2b32ce4d986d8f3283cdeef923f6</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100001011144097</name>
+					<setting name='buddy_icon' type='string'>f06efb562dcff6a732ca4cd4bf4e86b4f00350ed.jpg</setting>
+					<setting name='icon_checksum' type='string'>143472e947f40b608c93c2352a28784b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>801428331</name>
+					<setting name='buddy_icon' type='string'>8788751996dd816401f4d17eb9de583bf65a70d6.jpg</setting>
+					<setting name='icon_checksum' type='string'>b85924af9d542b6c075632e5f1775fe8</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>637741292</name>
+					<setting name='last_seen' type='int'>1493450063</setting>
+					<setting name='buddy_icon' type='string'>c37af6048b6bb7e899b88df16034ff6bbcbcfec5.jpg</setting>
+					<setting name='icon_checksum' type='string'>91a239361383eca0c16ec8dbf92729ae</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>583698054</name>
+					<setting name='last_seen' type='int'>1493382097</setting>
+					<setting name='buddy_icon' type='string'>562f5aa1395d4f99a3d965d7341eace4b15ed47e.jpg</setting>
+					<setting name='icon_checksum' type='string'>6cb3cb542edd314239836ebaa409c433</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100002060011453</name>
+					<setting name='buddy_icon' type='string'>263b309974c883a2bd0d4489b6af5a5b26562aec.jpg</setting>
+					<setting name='icon_checksum' type='string'>07fb9d05c1134d1581601a29cc551696</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100007621006550</name>
+					<setting name='last_seen' type='int'>1493353227</setting>
+					<setting name='buddy_icon' type='string'>fca05fdf9a2931a6b12435e9961eb52631d4c9a3.jpg</setting>
+					<setting name='icon_checksum' type='string'>c607d5c9da8d5ac2d71910b6f1fb355b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100001846606683</name>
+					<setting name='last_seen' type='int'>1493436775</setting>
+					<setting name='buddy_icon' type='string'>ac7e2a683cbac13f48aead65303801e724fdd7a8.jpg</setting>
+					<setting name='icon_checksum' type='string'>2602115ddfcf004050e59372e99c8c78</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100001394322512</name>
+					<setting name='last_seen' type='int'>1493262752</setting>
+					<setting name='buddy_icon' type='string'>a7a1ab860a9ee322c8fc2e50ccfbf6f599bc4982.jpg</setting>
+					<setting name='icon_checksum' type='string'>36fc61d1e205d83283b4d4d5d34b4894</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100001005726207</name>
+					<setting name='last_seen' type='int'>1493357690</setting>
+					<setting name='buddy_icon' type='string'>4858a354b7db652bd59e13caceb7881aa7f3614c.jpg</setting>
+					<setting name='icon_checksum' type='string'>cdde7825f46c6e8a4a6fbc9c358fb63e</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>619913038</name>
+					<setting name='last_seen' type='int'>1493447385</setting>
+					<setting name='buddy_icon' type='string'>5c7a6759fb5ed24640232014d99b1f9f836f8c0e.jpg</setting>
+					<setting name='icon_checksum' type='string'>8c8b010263f023dcfeffd006823a81f4</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100003935638319</name>
+					<setting name='last_seen' type='int'>1493452026</setting>
+					<setting name='buddy_icon' type='string'>8db4660391ff3d27fea012f86eb4bb218b65b113.jpg</setting>
+					<setting name='icon_checksum' type='string'>1989099f9c7969d70b63146657e355d4</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>552920820</name>
+					<setting name='last_seen' type='int'>1493451120</setting>
+					<setting name='buddy_icon' type='string'>cbdff940acd3a4065063670519854b0f34ce8f5a.jpg</setting>
+					<setting name='icon_checksum' type='string'>de0758bbaa518f1062ad061c140e4d6f</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>735640293</name>
+					<setting name='last_seen' type='int'>1493408541</setting>
+					<setting name='buddy_icon' type='string'>c0c36b53e80fdf3a668a83b4be5297d7de506914.jpg</setting>
+					<setting name='icon_checksum' type='string'>389d5d6de0028493583a24e8a861dec1</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100008514270901</name>
+					<setting name='last_seen' type='int'>1493508679</setting>
+					<setting name='buddy_icon' type='string'>8a1864f6ab3f4718af1109bb261df94333316e4e.jpg</setting>
+					<setting name='icon_checksum' type='string'>f0cd0dfb633da5b778ed210cb08e9ad7</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100002137860759</name>
+					<setting name='buddy_icon' type='string'>227688b7d22eb210cbc7dd2a1e0dc67711c9d2ac.jpg</setting>
+					<setting name='icon_checksum' type='string'>cd2cccf6999cbad76a85ec3b9429a8aa</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1812804587</name>
+					<setting name='last_seen' type='int'>1493424091</setting>
+					<setting name='buddy_icon' type='string'>a3daca49862bbdff00d30280b8ec4e75292ee0c2.jpg</setting>
+					<setting name='icon_checksum' type='string'>7d9e75aba87d2b37a6563547385756ca</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100009006326857</name>
+					<setting name='last_seen' type='int'>1493283897</setting>
+					<setting name='buddy_icon' type='string'>b855d71f5b495754135a40b130f28dcb5f642e47.jpg</setting>
+					<setting name='icon_checksum' type='string'>70b67e3fed1237780b4f9142f685f5f7</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100000663705746</name>
+					<setting name='last_seen' type='int'>1493417447</setting>
+					<setting name='buddy_icon' type='string'>20d43c0d139eae913dc1599a634b8652d6964a2a.jpg</setting>
+					<setting name='icon_checksum' type='string'>4a014f9021a9764abbfd828c8f61a071</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>552498993</name>
+					<setting name='buddy_icon' type='string'>56075319ae829e5f34ea5341e1953ded04047a27.jpg</setting>
+					<setting name='icon_checksum' type='string'>23a8314c314e47d5c003e3276cfb2a2c</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100002021239397</name>
+					<setting name='buddy_icon' type='string'>d21b1953fbbd4e00c7172cd944b5e2968c4bd46b.jpg</setting>
+					<setting name='icon_checksum' type='string'>fe0cb2e55fa8da0bbba311a134f46c4a</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>540691295</name>
+					<setting name='last_seen' type='int'>1493422430</setting>
+					<setting name='buddy_icon' type='string'>a63c92188ae462acc9e69774461dc6713541a508.jpg</setting>
+					<setting name='icon_checksum' type='string'>c9520a6eaecc9efcada90558432cd3af</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>701872469</name>
+					<setting name='last_seen' type='int'>1493369187</setting>
+					<setting name='buddy_icon' type='string'>90328a74cfd57588f069dd1ff4188cca6bc8dbf2.jpg</setting>
+					<setting name='icon_checksum' type='string'>19bfde1bb79a6e8ec2a8b12a064fe5d5</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1089675433</name>
+					<setting name='last_seen' type='int'>1493450667</setting>
+					<setting name='buddy_icon' type='string'>866f1c7ceab9c7b26754a7eefbfd7224c3988b09.jpg</setting>
+					<setting name='icon_checksum' type='string'>c612179c0ad3cc9d1d27cbf98197278e</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100004933427507</name>
+					<setting name='last_seen' type='int'>1493449913</setting>
+					<setting name='buddy_icon' type='string'>42e829aea9dca1e8a0433e60a87cd88d7093483f.jpg</setting>
+					<setting name='icon_checksum' type='string'>7a4b5be01ae947a73ed1d20daae9c9e5</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>645425637</name>
+					<setting name='last_seen' type='int'>1493451271</setting>
+					<setting name='buddy_icon' type='string'>366607db8702a1dc1ee468349f22c1a4dfb0044a.jpg</setting>
+					<setting name='icon_checksum' type='string'>fcbd5d0c8718d555790ec8bc0fe0b127</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100007297591096</name>
+					<setting name='last_seen' type='int'>1493453838</setting>
+					<setting name='buddy_icon' type='string'>337f83335f661e139106f5baec1cd2591cf8b9b1.jpg</setting>
+					<setting name='icon_checksum' type='string'>b3353b2612db0fb863cb6f250942d34a</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100013134662141</name>
+					<setting name='last_seen' type='int'>1493438285</setting>
+					<setting name='buddy_icon' type='string'>f0154ebcf4860d43fc5ffd423d68cbc56ab11d84.jpg</setting>
+					<setting name='icon_checksum' type='string'>8dc437ed241ce177facaea869ec80eb2</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100012844212809</name>
+					<setting name='last_seen' type='int'>1493368358</setting>
+					<setting name='buddy_icon' type='string'>179826948fbcc6121d503874a744e887931cf764.jpg</setting>
+					<setting name='icon_checksum' type='string'>6b6a265131fd47205f7211807684657d</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1294141553</name>
+					<setting name='buddy_icon' type='string'>1d7486a4a97ffe13bd271b5378ba48eba4ccae75.jpg</setting>
+					<setting name='icon_checksum' type='string'>b78f7e0cee88b36c363e44e93d94de48</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100014893862670</name>
+					<setting name='buddy_icon' type='string'>a070c24a2d35df49bb13b2dd810545961bdbb621.jpg</setting>
+					<setting name='icon_checksum' type='string'>0eace2239837dd11c0b3ee12e3fd240f</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>594603078</name>
+					<setting name='last_seen' type='int'>1493424846</setting>
+					<setting name='buddy_icon' type='string'>d60a39bf560b4353e157d108e06a8c67f0718361.jpg</setting>
+					<setting name='icon_checksum' type='string'>8ad374e4bbc3ba07856743da0ec26629</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>666635808</name>
+					<setting name='last_seen' type='int'>1493447647</setting>
+					<setting name='buddy_icon' type='string'>d8d4f4e8eefcbc032d9ddaf3e291750e6a59a245.jpg</setting>
+					<setting name='icon_checksum' type='string'>86d67f4fef0c088f973b5aa4546a3738</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>730279467</name>
+					<setting name='last_seen' type='int'>1493453687</setting>
+					<setting name='buddy_icon' type='string'>50453c41a82bbf82e71b09dc76350682eb5a532a.jpg</setting>
+					<setting name='icon_checksum' type='string'>9f0c0933cc5fb69f0ec5e3259659c04a</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>771310157</name>
+					<setting name='last_seen' type='int'>1493382724</setting>
+					<setting name='buddy_icon' type='string'>c44ef2cc9f9e5fbbb3f0cfc2f4697612fe228fb1.jpg</setting>
+					<setting name='icon_checksum' type='string'>8c10a5b944252678d9fab70eb8ef1c3d</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>586313072</name>
+					<setting name='last_seen' type='int'>1493449913</setting>
+					<setting name='buddy_icon' type='string'>5baa12d2d0b54115f4a612a5bc4e933dac19ef8f.jpg</setting>
+					<setting name='icon_checksum' type='string'>28d4cf0f1baec5d51122ef69c078d3f0</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>551346477</name>
+					<setting name='last_seen' type='int'>1493425299</setting>
+					<setting name='buddy_icon' type='string'>15def038324769aed22d5542d83e963888c56848.jpg</setting>
+					<setting name='icon_checksum' type='string'>d2aa694a33c7704908998af6350ad164</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>535345118</name>
+					<setting name='buddy_icon' type='string'>416359c0bb9795a72e0a30199c51e609287169ca.jpg</setting>
+					<setting name='icon_checksum' type='string'>2162cc38a053cf3e1570978c1eec5018</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1361544310</name>
+					<setting name='last_seen' type='int'>1493360710</setting>
+					<setting name='buddy_icon' type='string'>7bd7271a134ae74b32e2812a7de22b363f6cb13c.jpg</setting>
+					<setting name='icon_checksum' type='string'>cf9f86633db002798e526181a929f70c</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>769319466</name>
+					<setting name='last_seen' type='int'>1493452479</setting>
+					<setting name='buddy_icon' type='string'>a0922937a29d37f6b1d01a0d7c80e74c79c71c50.jpg</setting>
+					<setting name='icon_checksum' type='string'>52445d38daac453cf5c9cc49fe33d73e</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>682891379</name>
+					<setting name='buddy_icon' type='string'>a3511bf78c93e124719e122ab84830398b80f5af.jpg</setting>
+					<setting name='icon_checksum' type='string'>074fef36918c9cdc8f184ac3b748afc7</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100000604152130</name>
+					<setting name='last_seen' type='int'>1493453838</setting>
+					<setting name='buddy_icon' type='string'>f3988e209993ebb754cac133c251168986ef3e06.jpg</setting>
+					<setting name='icon_checksum' type='string'>e9467c01670799a00527aa8d08c8b250</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>500467967</name>
+					<setting name='last_seen' type='int'>1493360327</setting>
+					<setting name='buddy_icon' type='string'>af66c94698413a11273d221cbe125121743da094.jpg</setting>
+					<setting name='icon_checksum' type='string'>118003984116d6986791f6a12f515702</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100004367252677</name>
+					<setting name='last_seen' type='int'>1493423638</setting>
+					<setting name='buddy_icon' type='string'>f5041a52a94b7217dd2226e9eccd6ed1eebb880c.jpg</setting>
+					<setting name='icon_checksum' type='string'>5043cd146e967152c2de248200a535eb</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>608053471</name>
+					<setting name='last_seen' type='int'>1493453133</setting>
+					<setting name='buddy_icon' type='string'>dc86025d4798bc99f5df0dadaaa60ed448f81f4a.jpg</setting>
+					<setting name='icon_checksum' type='string'>5d7f45cde8daf62f578f83d5bb5f0e69</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>727140923</name>
+					<setting name='last_seen' type='int'>1493451875</setting>
+					<setting name='buddy_icon' type='string'>1547874643a4cf5cd4c645a7c323d2c5ad2ee832.jpg</setting>
+					<setting name='icon_checksum' type='string'>1448bae9314b531fa4b7e26da1d8bd0b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>643575298</name>
+					<setting name='last_seen' type='int'>1493449308</setting>
+					<setting name='buddy_icon' type='string'>8ffe386b488e908ebb0d000f8d71c704f3325262.jpg</setting>
+					<setting name='icon_checksum' type='string'>4b961aac3d8b348d73c62d879a8926e1</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>648656309</name>
+					<setting name='last_seen' type='int'>1493449761</setting>
+					<setting name='buddy_icon' type='string'>900ddec4c8f4b1738e1055c1465c3c2636fbddec.jpg</setting>
+					<setting name='icon_checksum' type='string'>0cfd9076cc6ff3fba2e90a444f97306a</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1386025256</name>
+					<setting name='last_seen' type='int'>1493447043</setting>
+					<setting name='buddy_icon' type='string'>2bc3568f55a9a5e4e5ce6c781b5f5464eb768892.jpg</setting>
+					<setting name='icon_checksum' type='string'>40b1c9319b0a33fb3f98741c05db66f4</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>771981796</name>
+					<setting name='last_seen' type='int'>1493449595</setting>
+					<setting name='buddy_icon' type='string'>8a8273e312ea28fdb8808315787bf17692f585d9.jpg</setting>
+					<setting name='icon_checksum' type='string'>3bf547c9d27fcdb5e64e84ef9237ed3f</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>636447842</name>
+					<setting name='last_seen' type='int'>1493430052</setting>
+					<setting name='buddy_icon' type='string'>62d8207d535b165c96a82cf411b576f5674fb361.jpg</setting>
+					<setting name='icon_checksum' type='string'>2c2d7cfdaf92a7040f990ced16079652</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>749541693</name>
+					<setting name='last_seen' type='int'>1493262903</setting>
+					<setting name='buddy_icon' type='string'>ea8801a798ea11f8c92d626864a8825e462c1269.jpg</setting>
+					<setting name='icon_checksum' type='string'>94a689ee184dec76c90c40c8030f3c13</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100000849448188</name>
+					<setting name='last_seen' type='int'>1493453745</setting>
+					<setting name='buddy_icon' type='string'>5ff63720399e292c58c8fb933069346cf99848c8.jpg</setting>
+					<setting name='icon_checksum' type='string'>2b2ff3b8c61b96651812745160eec25d</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>872075203</name>
+					<setting name='last_seen' type='int'>1493452932</setting>
+					<setting name='buddy_icon' type='string'>d96f0492cb8d4a685f784f203183b367240ab850.jpg</setting>
+					<setting name='icon_checksum' type='string'>c36cf9a734d64c750acdaf67b0b80376</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100000168113227</name>
+					<setting name='last_seen' type='int'>1493450667</setting>
+					<setting name='buddy_icon' type='string'>2e22d25a82f37fe6648523b95d4afac7aa57654a.jpg</setting>
+					<setting name='icon_checksum' type='string'>6968879a90dc2556c1fe5906bf2d89f2</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100001269005245</name>
+					<setting name='last_seen' type='int'>1493440852</setting>
+					<setting name='buddy_icon' type='string'>73856ad9e0df4e77f2c6dd2ca274356fdd4205a1.jpg</setting>
+					<setting name='icon_checksum' type='string'>f7e2a1e184e998e4012c112a1da3c762</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>576003921</name>
+					<setting name='buddy_icon' type='string'>5d5e4a8d6175d3bf8f0fd0151741f8dbd5612ba8.jpg</setting>
+					<setting name='icon_checksum' type='string'>a0528e196f8ae2542670a7beb18e6d7a</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>717643803</name>
+					<setting name='last_seen' type='int'>1493428772</setting>
+					<setting name='buddy_icon' type='string'>05e064d0d3333e05e7aa86a24bba0b49382f5f02.jpg</setting>
+					<setting name='icon_checksum' type='string'>18bedc4836aa8783e956e1055b414a0e</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1405306118</name>
+					<setting name='last_seen' type='int'>1493452781</setting>
+					<setting name='buddy_icon' type='string'>b63af231d18cac5921f2d0835948670e7c31955d.jpg</setting>
+					<setting name='icon_checksum' type='string'>0dcb3a25e9d58d71e7b94080ef54f891</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100009952364713</name>
+					<setting name='last_seen' type='int'>1493374569</setting>
+					<setting name='buddy_icon' type='string'>26f09ec49c1efc5f258ca496f0bd1b2fddcbdb7c.jpg</setting>
+					<setting name='icon_checksum' type='string'>45ba7905775757dadf6d266a871aeb9b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100001943343040</name>
+					<setting name='buddy_icon' type='string'>38526de8f5c5d69bf4bcb4ebd4e0cc85f540990f.jpg</setting>
+					<setting name='icon_checksum' type='string'>913a7eca5043133eba816b5c1ddc65ba</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>665270982</name>
+					<setting name='last_seen' type='int'>1493508679</setting>
+					<setting name='buddy_icon' type='string'>3747d193d7f19c055406ec9e17f62ea016517862.jpg</setting>
+					<setting name='icon_checksum' type='string'>4040f2395d0b1d9ddc6294c5d095ca10</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>702157914</name>
+					<setting name='last_seen' type='int'>1493453083</setting>
+					<setting name='buddy_icon' type='string'>4a005feeff9046cdae922ca02c18816f04c01450.jpg</setting>
+					<setting name='icon_checksum' type='string'>150d883a4884b4ada884b4125ea72ff8</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>528166947</name>
+					<setting name='last_seen' type='int'>1493441560</setting>
+					<setting name='buddy_icon' type='string'>8202a399fd71d3e7c7f7043a1cbc484691562df7.jpg</setting>
+					<setting name='icon_checksum' type='string'>0edb2594b90a61384dd84b9921fc26c2</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>531012557</name>
+					<setting name='last_seen' type='int'>1493426205</setting>
+					<setting name='buddy_icon' type='string'>df720044b626bdfd039956ccfdc12718e03c4cd9.jpg</setting>
+					<setting name='icon_checksum' type='string'>1d864be713e1b17c7b61770d2cf75780</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>586878284</name>
+					<setting name='last_seen' type='int'>1493446834</setting>
+					<setting name='buddy_icon' type='string'>80fe36ff0c93453a92e1dd0e532a26692ecd4f5a.jpg</setting>
+					<setting name='icon_checksum' type='string'>b625175d1aba74b84273618b3e5524fb</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>664063594</name>
+					<setting name='last_seen' type='int'>1493418806</setting>
+					<setting name='buddy_icon' type='string'>ee70a25261b436fd0d1717f1a466f2c5b20c5def.jpg</setting>
+					<setting name='icon_checksum' type='string'>1632f33f6cb959cb08f9207bd9f185bb</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100001042149482</name>
+					<setting name='last_seen' type='int'>1493414578</setting>
+					<setting name='buddy_icon' type='string'>95b448ede8bd7a3b44ec1b4d892a23ade8d6adfa.jpg</setting>
+					<setting name='icon_checksum' type='string'>59f17af9a32625c58129bae0d9617d24</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100005743388040</name>
+					<setting name='last_seen' type='int'>1493450214</setting>
+					<setting name='buddy_icon' type='string'>c5303be61d9746089ed52fb68847b52b3364b947.jpg</setting>
+					<setting name='icon_checksum' type='string'>fc1f1aa9ce4c5152eb4ad0105078d16c</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100012559322891</name>
+					<setting name='last_seen' type='int'>1493508679</setting>
+					<setting name='buddy_icon' type='string'>55306164778b6100363148cb9643e0c310117e86.jpg</setting>
+					<setting name='icon_checksum' type='string'>ead9af1d8714d4bcd2e54278c19d3941</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>689035228</name>
+					<setting name='last_seen' type='int'>1493444929</setting>
+					<setting name='buddy_icon' type='string'>d225399a17fe19112be5534e896b2c126141082d.jpg</setting>
+					<setting name='icon_checksum' type='string'>e558baad9cb1a0a6ec1ab62d19746e98</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>687846196</name>
+					<setting name='last_seen' type='int'>1493434812</setting>
+					<setting name='buddy_icon' type='string'>4a17c0398e4fef958c9ad412bd774e54082bf192.jpg</setting>
+					<setting name='icon_checksum' type='string'>ab0cec1b2f49f90569ed0555b14e0a4f</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>798434851</name>
+					<setting name='last_seen' type='int'>1493453838</setting>
+					<setting name='buddy_icon' type='string'>21bf9cebbe20dad1ece5b954da000ca170c10c6d.jpg</setting>
+					<setting name='icon_checksum' type='string'>f2fa3a7c3d881ed88db2573865d0e23e</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>814728585</name>
+					<setting name='last_seen' type='int'>1493382329</setting>
+					<setting name='buddy_icon' type='string'>fac828565c8f11a98a9db18214315dacf4e53816.jpg</setting>
+					<setting name='icon_checksum' type='string'>dd13b44919d7f1b5048d473a1ba5365e</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100006066915154</name>
+					<setting name='last_seen' type='int'>1493441607</setting>
+					<setting name='buddy_icon' type='string'>2b7e7b1faf530b80c14443acb6aaca1480c4f254.jpg</setting>
+					<setting name='icon_checksum' type='string'>a74a9b457ce3d6a908403eb0a2194c92</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100014143621614</name>
+					<setting name='buddy_icon' type='string'>90da3f22e232a10af4cf3d450e3bd30ac9f76bbd.jpg</setting>
+					<setting name='icon_checksum' type='string'>bdef7d82dcd21b6a6a90a2bed157c681</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1322032697</name>
+					<setting name='buddy_icon' type='string'>bd4a89327b5d0976dd850a8a3ea8ed3e53b76760.jpg</setting>
+					<setting name='icon_checksum' type='string'>81a8093d97c12ef443918677b39fa3fc</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>825262940</name>
+					<setting name='last_seen' type='int'>1493452328</setting>
+					<setting name='buddy_icon' type='string'>f2bf84bff477661745acdd768b0fa63c5ced65a8.jpg</setting>
+					<setting name='icon_checksum' type='string'>15272053dc7993131630e32022e364ad</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>506644427</name>
+					<setting name='last_seen' type='int'>1493385433</setting>
+					<setting name='buddy_icon' type='string'>1f155059bf5308fbd84dec9a75d5bc268e8ab425.jpg</setting>
+					<setting name='icon_checksum' type='string'>da6ee0f3b0e5a953ce89d8d85ef0cad1</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100008283577566</name>
+					<setting name='last_seen' type='int'>1493344774</setting>
+					<setting name='buddy_icon' type='string'>827d42f970193637aa4cead5e2a5006cbf07d89b.jpg</setting>
+					<setting name='icon_checksum' type='string'>579a46ea06eb34a399ff95a6eed10b58</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100000652225684</name>
+					<setting name='last_seen' type='int'>1493441607</setting>
+					<setting name='buddy_icon' type='string'>f0091730b61b0e2219033e8467202d818b66b3cd.jpg</setting>
+					<setting name='icon_checksum' type='string'>a942b71617d3deb80886a25a25ac412f</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100002896579202</name>
+					<setting name='last_seen' type='int'>1493508679</setting>
+					<setting name='buddy_icon' type='string'>ea23db367e78f371a523c029604917674caa5063.jpg</setting>
+					<setting name='icon_checksum' type='string'>5c8b4367faa95c2f6960cb499cf56b0a</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100013316018310</name>
+					<setting name='last_seen' type='int'>1493359955</setting>
+					<setting name='buddy_icon' type='string'>aeeb3ae5b1913f95b556d9fae24fa8b12ba768f9.jpg</setting>
+					<setting name='icon_checksum' type='string'>2b60952cd56a1dc00d08c8e756e44125</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1410800185</name>
+					<setting name='buddy_icon' type='string'>18b1891c91c5bc869245c98a36687f06974302dc.jpg</setting>
+					<setting name='icon_checksum' type='string'>b6451083b5b45f45a1e26c537ef0b85e</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100006473240189</name>
+					<setting name='last_seen' type='int'>1493450443</setting>
+					<setting name='buddy_icon' type='string'>0743a61c50959a590c059d674a8c574009695ce6.jpg</setting>
+					<setting name='icon_checksum' type='string'>a201c92172007f78e1742f35424beade</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100006333961500</name>
+					<setting name='last_seen' type='int'>1493452932</setting>
+					<setting name='buddy_icon' type='string'>e791d928ae5d9986dd6c6396da8e12b9f49daee5.jpg</setting>
+					<setting name='icon_checksum' type='string'>3f7004fc5dfd6f12c2ba988897e1d5aa</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>100000183840352</name>
+					<setting name='last_seen' type='int'>1493363731</setting>
+					<setting name='buddy_icon' type='string'>e4df6149ac42f5acbbc51e94b2a48c1d233261d1.jpg</setting>
+					<setting name='icon_checksum' type='string'>bdfe9175a513b03ce91f5e1d16d65563</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>1659664334</name>
+					<setting name='last_seen' type='int'>1493354049</setting>
+					<setting name='buddy_icon' type='string'>78cfcf26a761eda99f2a449d6a0ed99df619f6df.jpg</setting>
+					<setting name='icon_checksum' type='string'>830c33e703e332ed901adcd5d99bc05b</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>664075734</name>
+					<setting name='last_seen' type='int'>1493508679</setting>
+					<setting name='buddy_icon' type='string'>2db36fdd07261657cc269f892c7b70fbf999423a.jpg</setting>
+					<setting name='icon_checksum' type='string'>1bea29df2d205b23322d21fbe612e215</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>626751494</name>
+					<setting name='last_seen' type='int'>1493448090</setting>
+					<setting name='buddy_icon' type='string'>c6e19935c487067b0861efa2a8424b9b9c4d69b2.jpg</setting>
+					<setting name='icon_checksum' type='string'>c3449953b6e5c5afaa1fac6be915ac43</setting>
+				</buddy>
+			</contact>
+			<contact>
+				<buddy account='springah@gmail.com' proto='prpl-facebook'>
+					<name>763124815</name>
+					<setting name='last_seen' type='int'>1493449257</setting>
+					<setting name='buddy_icon' type='string'>83d40609f9538021c38a79e336e66b2a87454046.jpg</setting>
+					<setting name='icon_checksum' type='string'>35d8dc164091f25748daeddd61f694c6</setting>
+				</buddy>
+			</contact>
+		</group>
+	</blist>
+	<privacy>
+		<account proto='prpl-telegram' name='+61410193313' mode='1'/>
+		<account proto='prpl-hangouts' name='springah@gmail.com' mode='1'/>
+		<account proto='prpl-facebook' name='springah@gmail.com' mode='1'/>
+	</privacy>
+</purple>

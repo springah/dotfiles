@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<account version='1.0'>
+	<account>
+		<protocol>prpl-telegram</protocol>
+		<name>+61410193313</name>
+		<alias>Shant</alias>
+		<statuses/>
+		<settings>
+			<setting name='media-size-threshold' type='int'>32768</setting>
+			<setting name='send-read-notifications' type='bool'>1</setting>
+			<setting name='inactive-days-offline' type='int'>7</setting>
+			<setting name='compat-verification' type='bool'>0</setting>
+			<setting name='check-mail' type='bool'>0</setting>
+			<setting name='display-read-notifications' type='bool'>0</setting>
+			<setting name='accept-secret-chats' type='string'>ask</setting>
+			<setting name='history-retrieve-days' type='int'>14</setting>
+			<setting name='auto-join-group-chats' type='bool'>1</setting>
+		</settings>
+		<settings ui='gnt-purple'>
+			<setting name='auto-login' type='bool'>1</setting>
+		</settings>
+		<current_error/>
+	</account>
+	<account>
+		<protocol>prpl-hangouts</protocol>
+		<name>springah@gmail.com</name>
+		<password>1/LppTRYzNjen8ssJqX3GQ-ZWzav7UOMdQID66Vi9gtZE</password>
+		<alias>springah</alias>
+		<statuses>
+			<status type='available' name='Available' active='false'>
+				<attributes/>
+			</status>
+			<status type='offline' name='Offline' active='false'>
+				<attributes/>
+			</status>
+		</statuses>
+		<settings>
+			<setting name='last_event_timestamp_low' type='int'>-735710856</setting>
+			<setting name='show-call-links' type='bool'>0</setting>
+			<setting name='unravel_google_url' type='bool'>0</setting>
+			<setting name='check-mail' type='bool'>0</setting>
+			<setting name='self_gaia_id' type='string'>100143981494476802544</setting>
+			<setting name='last_event_timestamp_high' type='int'>347735</setting>
+		</settings>
+		<settings ui='gnt-purple'>
+			<setting name='auto-login' type='bool'>1</setting>
+		</settings>
+		<current_error/>
+	</account>
+	<account>
+		<protocol>prpl-facebook</protocol>
+		<name>springah@gmail.com</name>
+		<password>Down 2 jergs</password>
+		<alias>Shant</alias>
+		<statuses>
+			<status type='available' name='Available' active='true'>
+				<attributes/>
+			</status>
+			<status type='away' name='Away' active='false'>
+				<attributes/>
+			</status>
+			<status type='invisible' name='Invisible' active='false'>
+				<attributes/>
+			</status>
+			<status type='offline' name='Offline' active='false'>
+				<attributes/>
+			</status>
+		</statuses>
+		<settings>
+			<setting name='show-self' type='bool'>1</setting>
+			<setting name='stoken' type='string'>1673435658</setting>
+			<setting name='cid' type='string'>ERmqiSKemd3nE6Ltl36B</setting>
+			<setting name='check-mail' type='bool'>0</setting>
+			<setting name='did' type='string'>b7b8dbbe-3c6d-4573-a8d8-8493bf311975</setting>
+			<setting name='show-unread' type='bool'>1</setting>
+			<setting name='token' type='string'>EAADo1TDZCuu8BAGSt8WtJD6ZCB0mAyg1N5yQtJZBTtLDjY8n9YTq8pLMo4yfqRrv5IHvLLWJxeeJGC1c0ncdS2y5hmo9uF66igaCoDVvufNZBa2GOCATeIzIzXq0xWcQ94fGz3p8ZCNEBINHAtZAQwysTIYJAIZBpMVz4NMHmJSLQZDZD</setting>
+			<setting name='mid' type='string'>2825496726</setting>
+			<setting name='sync-interval' type='int'>30</setting>
+			<setting name='uid' type='string'>618381366</setting>
+			<setting name='group-chat-open' type='bool'>1</setting>
+			<setting name='mark-read' type='bool'>1</setting>
+		</settings>
+		<settings ui='gnt-purple'>
+			<setting name='auto-login' type='bool'>0</setting>
+		</settings>
+		<current_error/>
+	</account>
+</account>
