@@ -1,0 +1,3 @@
+[general]
+mouse = 1
+wm = /usr//lib/gnt/irssi.so
